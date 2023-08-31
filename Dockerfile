@@ -1,7 +1,7 @@
 FROM jepthoniq/jepthon:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/Source-Ze/ZESOURCE.git /root/jepthon
+RUN git clone https://github.com/Darksourcebot/X-SOURCE.git /root/jepthon
 #working directory 
 WORKDIR /root/jepthon
 
